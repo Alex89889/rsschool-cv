@@ -1,17 +1,12 @@
-#Aliaksandra Mikhalchanka
+# Aliaksandra Mikhalchanka
 
-##Contact information:
+## Contact information:
 
 Phone: +375 33 689 22 92
 
 Email: mihal4encko.sasha@yandex.ru
 
-##Summary:
+## Summary:
 
 My goal is to develop my programming skills as a frontend developer.
-
-
-
-
-
 
